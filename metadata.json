@@ -1,0 +1,6 @@
+{
+  "name": "Timbangan Takdir: Hak vs Kewajiban - Game PPKn SMP",
+  "description": "Game edukasi interaktif PPKn Kelas 9 SMP tentang keseimbangan Hak dan Kewajiban warga negara berdasarkan UUD NRI 1945.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
